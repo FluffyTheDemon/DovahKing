@@ -78,6 +78,7 @@ Also recommended:
 
 ## ⚠️ Please don't
 
+- Press **Unlock** on the mod list in MO2 while it's still loading. Wait until MO2 has finished loading first.
 - Run LOOT or change the load order. It's hand-tuned.
 - Update Skyrim past 1.6.1170.
 - Remove the `DovahKing - ` patch mods. They hold the list's custom fixes.
