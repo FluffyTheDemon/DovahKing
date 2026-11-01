@@ -27,6 +27,19 @@ DovahKing is a Skyrim Special Edition modlist by **FluffyTheDemon** that keeps t
 - Lots of free disk space. LOD, grass cache and textures are big, so an SSD is strongly recommended.
 - A clean, unmodded Steam install. DovahKing uses its own **Stock Game** folder, so your Steam files stay untouched.
 
+## 🧰 Before you install
+
+Most SKSE plugins need Microsoft's C++ runtimes, so grab these first:
+
+- [Visual C++ Redistributable 2015–2022 (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- [Visual C++ Redistributable 2015–2022 (x86)](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+
+Also recommended:
+
+- Launch Skyrim once from Steam so it creates its settings files, then close it.
+- Add your DovahKing install and downloads folders to your antivirus exclusions. Windows Defender can slow down or block Wabbajack.
+- Set your Windows page file to at least **20 GB**, or leave it on "System managed". Large lists need it to avoid crashes.
+
 ## 🛠️ Installation
 
 1. Download and run [Wabbajack](https://www.wabbajack.org/).
