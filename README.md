@@ -47,7 +47,7 @@ Also recommended:
 1. Download and run [Wabbajack](https://www.wabbajack.org/).
 2. Download `DovahKing.wabbajack` (link on the Discord) and open it in Wabbajack with **Install from disk**.
 3. Pick an install folder (for example `C:\DovahKing`) and a downloads folder. Avoid Program Files and the desktop.
-4. Click **Install**. When Wabbajack pauses for **Modern Stagger Lock**, download `Modern.Stagger.Lock-v1.07a.-.AE.-.VR.7z` from the GitHub page it opens, and it'll carry on.
+4. Click **Install**. When Wabbajack pauses for **Modern Stagger Lock**, download `Modern.Stagger.Lock-v1.07a.-.AE.-.VR.7z` from the GitHub page it opens, and it'll carry on. It works the same way for **RootBuilder 5.1.1**: download `rootbuilder.5.1.1.zip` from the [ModOrganizer-Plugins releases page](https://github.com/Kezyma/ModOrganizer-Plugins/releases).
 5. Open `ModOrganizer.exe` in your install folder, pick your profile, and launch **SKSE**.
 
 ## 🖥️ Profiles
