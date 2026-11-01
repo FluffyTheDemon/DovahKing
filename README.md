@@ -50,6 +50,15 @@ Also recommended:
 4. Click **Install**. When Wabbajack pauses for **Modern Stagger Lock**, download `Modern.Stagger.Lock-v1.07a.-.AE.-.VR.7z` from the GitHub page it opens, and it'll carry on. It works the same way for **RootBuilder 5.1.1**: download `rootbuilder.5.1.1.zip` from the [ModOrganizer-Plugins releases page](https://github.com/Kezyma/ModOrganizer-Plugins/releases).
 5. Open `ModOrganizer.exe` in your install folder, pick your profile, and launch **SKSE**.
 
+## 📥 Manual downloads
+
+Wabbajack will ask for these two during install. You can also grab them ahead of time and drop them into your downloads folder:
+
+| Mod | File | Download |
+|---|---|---|
+| Modern Stagger Lock v1.07a (AE/VR) | `Modern.Stagger.Lock-v1.07a.-.AE.-.VR.7z` | [GitHub release](https://github.com/SkyHorizon3/ModernStaggerLock/releases/tag/v1.07a) |
+| RootBuilder 5.1.1 | `rootbuilder.5.1.1.zip` | [GitHub releases](https://github.com/Kezyma/ModOrganizer-Plugins/releases) |
+
 ## 🖥️ Profiles
 
 | Profile | Resolution | Mode |
