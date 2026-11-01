@@ -9,6 +9,8 @@
   <a href="https://discord.gg/X7WnTVTSHM"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
   <img src="https://img.shields.io/badge/Skyrim-1.6.1170-1f6feb" alt="Skyrim 1.6.1170">
   <img src="https://img.shields.io/badge/Mods-800%2B-2ea043" alt="800+ mods">
+  <img src="https://img.shields.io/badge/Download-90%20GB-d29922" alt="90 GB download">
+  <img src="https://img.shields.io/badge/Install-133%20GB-d29922" alt="133 GB install">
   <img src="https://img.shields.io/badge/Wabbajack-ready-8957e5" alt="Wabbajack">
   <img src="https://img.shields.io/badge/Controller-supported-f0883e" alt="Controller">
 </p>
@@ -24,7 +26,7 @@ DovahKing is a Skyrim Special Edition modlist by **FluffyTheDemon** that keeps t
 - **Skyrim Special Edition** on Steam, version **1.6.1170**, with the **Anniversary Edition** content
 - A **Nexus Mods** account (Premium makes downloads automatic; free works with manual clicks)
 - [Wabbajack](https://www.wabbajack.org/)
-- Lots of free disk space. LOD, grass cache and textures are big, so an SSD is strongly recommended.
+- **Disk space:** about a **90 GB download** and a **133 GB install**, so plan for roughly **225 GB free** if you keep the downloads. An SSD is strongly recommended.
 - A clean, unmodded Steam install. DovahKing uses its own **Stock Game** folder, so your Steam files stay untouched.
 
 ## 🧰 Before you install
