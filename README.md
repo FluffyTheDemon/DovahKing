@@ -31,6 +31,7 @@ DovahKing is a Skyrim Special Edition modlist by **FluffyTheDemon** that keeps t
 - [Wabbajack](https://www.wabbajack.org/)
 - **Disk space:** about a **90 GB download** and a **133 GB install**, so plan for roughly **225 GB free** if you keep the downloads. An SSD is strongly recommended.
 - A clean, unmodded Steam install. DovahKing uses its own **Stock Game** folder, so your Steam files stay untouched.
+- 🐧 **Linux:** the `.wabbajack` file installs fine with [Jackify](https://github.com/Omni-guides/Jackify), but run MO2 with **GE-Proton** (installable via [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)).
 
 ## 🧰 Before you install
 
