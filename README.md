@@ -87,7 +87,7 @@ Wabbajack will ask for these two during install. You can also grab them ahead of
 
 ## ⚠️ Please don't
 
-- Press **Unlock** on the mod list in MO2 while it's still loading. Wait until MO2 has finished loading first.
+- **Don't ever press Unlock no matter what!**
 - Run LOOT or change the load order. It's hand-tuned.
 - Update Skyrim past 1.6.1170.
 - Remove the `DovahKing - ` patch mods. They hold the list's custom fixes.
