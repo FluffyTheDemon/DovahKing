@@ -86,7 +86,6 @@ Wabbajack will ask for these two during install. You can also grab them ahead of
 ## 🎮 First launch
 
 - MCM settings come preconfigured. On a **new game**, **MCM Recorder** plays the *Author's Choice* recording about 30 seconds after character creation. Let it finish before opening menus.
-- Menus don't pause the game (Skyrim Souls RE). That's intentional.
 - Always launch **SKSE** from MO2, never from Steam.
 
 ## ⚠️ Please don't
